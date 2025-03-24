@@ -83,6 +83,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeRouxDeBangkok/LeRouxDeBangkok/output/snake.svg" alt="Snake animation" />
-
-###
