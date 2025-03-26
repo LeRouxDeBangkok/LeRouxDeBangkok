@@ -80,13 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
+## Other stats
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok)](https://github.com/lerouxdebangkok/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerouxdebangkok)](https://github.com/lerouxdebangkok/github-readme-stats)
-
 <!--END_SECTION:waka-->
-
-###
 
