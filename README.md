@@ -82,13 +82,7 @@
 
 ## Other stats
 <!--START_SECTION:waka-->
-
-```rust
-Total Time: 10 mins
-
-C#       6 mins          >>>>>>>>>>>>>>>>---------   62.12 %
-Python   4 mins          >>>>>>>>>----------------   37.88 %
-```
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
