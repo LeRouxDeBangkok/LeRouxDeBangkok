@@ -82,7 +82,7 @@
 
 ## Other stats
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
