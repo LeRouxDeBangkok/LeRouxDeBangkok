@@ -82,9 +82,13 @@
 
 ## Other stats
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerouxdebangkok&theme=tokyonight&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-##
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+```rust
+Total Time: 10 mins
+
+C#       6 mins          >>>>>>>>>>>>>>>>---------   62.12 %
+Python   4 mins          >>>>>>>>>----------------   37.88 %
+```
 
 <!--END_SECTION:waka-->
 
