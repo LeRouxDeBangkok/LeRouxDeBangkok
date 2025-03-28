@@ -20,9 +20,9 @@
 
 ## Other stats
 <p>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=lerouxdebangkok&layout=compact&theme=tokyonight>
-<img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=tokyonight&langs_count=10&layout=compact width="40%">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=lerouxdebangkok&layout=compact&theme=ambient_gradient>
+<img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=github_dark&langs_count=10&layout=compact&show_icons=true width="40%">
 </p>
 <p>
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=tokyonight&langs_count=20&layout=compact max-width="40%">
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=github_dark&langs_count=20&layout=compact max-width="40%">
 </p>
