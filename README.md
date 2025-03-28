@@ -82,7 +82,15 @@
 
 ## Other stats
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+```rust
+Total Time: 5 hrs 38 mins
+
+C#       4 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>-----   78.52 %
+Python   1 hr 12 mins    >>>>>--------------------   21.45 %
+XML      0 secs          -------------------------   00.03 %
+Csproj   0 secs          -------------------------   00.00 %
+```
 
 <!--END_SECTION:waka-->
 
