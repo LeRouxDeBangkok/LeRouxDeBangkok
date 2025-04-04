@@ -22,7 +22,6 @@
 <p>
 <img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=github_dark&langs_count=10&layout=compact&show_icons=true width="40%">
 </p>
-<h3>Top Languages this week:</h3>
 <p>
 <img src=https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=github_dark&langs_count=20&layout=compact max-width="40%">
 </p>
