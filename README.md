@@ -8,7 +8,7 @@
 
 <h1>Known Languages</h1>
 
-![Known languages](https://skillicons.dev/icons?i=bash,cs,css,html,java,js,ocaml,py&perline=10)
+![Known languages](https://skillicons.dev/icons?i=bash,cs,css,html,java,js,ocaml,py,swift&perline=10)
 
 ###
 
