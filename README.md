@@ -8,7 +8,7 @@
 
 <h1>Known Languages</h1>
 
-![Known languages](https://skillicons.dev/icons?i=bash,cs,css,html,java,js,ocaml,py,swift&perline=10)
+![Known languages](https://skillicons.dev/icons?i=bash,c,cs,css,html,java,js,ocaml,py,swift&perline=10)
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,linux,matlab,octave,raspberrypi,regex,sketchup,ubuntu,windows,unity,unreal,visualstudio,vscode&perline=10)
+![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,linux,matlab,octave,raspberrypi,regex,sketchup,ubuntu,windows,arch,unity,unreal,visualstudio,vscode&perline=10)
 
 ## Other stats
 
