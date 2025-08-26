@@ -20,7 +20,7 @@
 
 ## Other stats
 <p>
-<img src=https://ghstats.nixuge.me/top-langs?username=LeRouxDeBangkok&theme=github_dark&langs_count=20&layout=donut width="30%">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LeRouxDeBangkok&theme=github_dark&langs_count=20&layout=donut width="30%">
 </p>
 <p>
 <img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=github_dark&langs_count=10&layout=compact&show_icons=true width="40%">
