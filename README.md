@@ -19,8 +19,9 @@
 ![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,matlab,octave,raspberrypi,regex,sketchup,arch,linux,ubuntu,windows,unity,unreal,visualstudio,vscode&perline=10)
 
 ## Other stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerouxdebangkok&theme=github_dark)
+<p>
+<img src=https://ghstats.nixuge.me/top-langs?username=LeRouxDeBangkok&theme=github_dark&langs_count=20&layout=donut width="30%">
+</p>
 <p>
 <img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=github_dark&langs_count=10&layout=compact&show_icons=true width="40%">
 </p>
