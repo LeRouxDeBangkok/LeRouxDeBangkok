@@ -19,6 +19,7 @@
 ![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,matlab,octave,raspberrypi,regex,sketchup,arch,linux,ubuntu,windows,unity,unreal,visualstudio,vscode&perline=10)
 
 ## Other stats
+<!--START_SECTION:waka-->
 <p>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LeRouxDeBangkok&theme=github_dark&langs_count=20&layout=donut width="30%">
 </p>
@@ -28,3 +29,4 @@
 <p>
 <img src=https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=github_dark&langs_count=20&layout=compact max-width="40%">
 </p>
+<!--END_SECTION:waka-->
