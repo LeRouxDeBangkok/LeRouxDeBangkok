@@ -20,13 +20,16 @@
 
 ## Other stats
 <!--START_SECTION:waka-->
-<p>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LeRouxDeBangkok&theme=github_dark&langs_count=20&layout=donut width="30%">
-</p>
-<p>
-<img src=https://github-readme-stats.vercel.app/api?username=lerouxdebangkok&theme=github_dark&langs_count=10&layout=compact&show_icons=true width="40%">
-</p>
-<p>
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=lerouxdebangkok&theme=github_dark&langs_count=20&layout=compact max-width="40%">
-</p>
+
+```rust
+Total Time: 133 hrs 52 mins
+
+C                 47 hrs 26 mins  >>>>>>>>>----------------   35.18 %
+C#                44 hrs 43 mins  >>>>>>>>-----------------   33.16 %
+Python            35 hrs 18 mins  >>>>>>>------------------   26.19 %
+C/C++             1 hr 52 mins    -------------------------   01.39 %
+Markdown          1 hr 32 mins    -------------------------   01.15 %
+Other             59 mins         -------------------------   00.74 %
+```
+
 <!--END_SECTION:waka-->
