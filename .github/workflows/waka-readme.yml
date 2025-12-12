@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api # optional
-          BLOCKS: -> # optional
+          BLOCKS: ░▒▓█ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 20 # optional
