@@ -19,15 +19,12 @@
 ![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,matlab,octave,raspberrypi,regex,sketchup,arch,linux,ubuntu,windows,unity,unreal,visualstudio,vscode&perline=10)
 
 ## Other stats
-<!--START_SECTION:waka-->
 
-```rust
-Total Time: 145 hrs 12 mins
+<p align="center">
+  <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api?username=LeRouxDeBangkok&show_icons=true&layout=normal&theme=github_dark&count_private=true&custom_title=Romain's%20Stats" width="50%" />
+  <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api/top-langs/?username=LeRouxDeBangkok&layout=compact&theme=github_dark&langs_count=10" width="40%" />
+</p>
 
-C                 56 hrs 33 mins  █████████▓░░░░░░░░░░░░░░░   38.17 %
-C#                45 hrs          ███████▓░░░░░░░░░░░░░░░░░   30.38 %
-Python            35 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-Other             2 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api/wakatime?username=LeRouxDeBangkok&theme=github_dark&layout=compact&langs_count=20" width="60%" />
+</p>
