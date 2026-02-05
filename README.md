@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api?username=LeRouxDeBangkok&show_icons=true&layout=normal&theme=github_dark&count_private=true&custom_title=Romain's%20Stats" width="50%" />
-  <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api/top-langs/?username=LeRouxDeBangkok&layout=compact&theme=github_dark&langs_count=10" width="40%" />
+  <img src="http://github-readme-stats-ivory-tau-14.vercel.app/api/top-langs/?username=LeRouxDeBangkok&layout=compact&theme=github_dark&langs_count=10&exclude_repo=github-readme-stats" width="40%" />
 </p>
 
 <p align="center">
