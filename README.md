@@ -16,7 +16,7 @@
 
 ###
 
-![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,matlab,octave,raspberrypi,regex,sketchup,arch,linux,ubuntu,windows,unity,unreal,visualstudio,vscode&perline=10)
+![Used Tech](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,clion,pycharm,rider,arduino,blender,docker,emacs,git,github,gitlab,githubactions,godot,latex,matlab,neovim,octave,raspberrypi,regex,sketchup,arch,linux,ubuntu,windows,unity,unreal,vercel,vim,visualstudio,vscode&perline=10)
 
 ## Other stats
 
